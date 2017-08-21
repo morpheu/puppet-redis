@@ -1,12 +1,12 @@
 {
-  "name": "fsalum-redis",
-  "version": "1.0.3",
+  "name": "morpheu-redis",
+  "version": "1.0.4",
   "author": "Felipe Salum",
   "summary": "Puppet module for Redis Server",
   "license": "Apache-2.0",
-  "source": "git://github.com/fsalum/puppet-redis.git",
-  "project_page": "https://github.com/fsalum/puppet-redis",
-  "issues_url": "https://github.com/fsalum/puppet-redis/issues",
+  "source": "git://github.com/morpheu/puppet-redis.git",
+  "project_page": "https://github.com/morpheu/puppet-redis",
+  "issues_url": "https://github.com/morpheu/puppet-redis/issues",
   "tags": ["redis", "memcached", "cache", "nosql"],
   "operatingsystem_support": [
       {
